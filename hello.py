@@ -1,1 +1,1 @@
-print('hello')
+name = 'Miphanith'print(name)
